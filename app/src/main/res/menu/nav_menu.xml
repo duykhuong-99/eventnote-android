@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Ghi chú">
+        <menu>
+
+            <item android:title="Thêm ghi chú"
+                android:id="@+id/mnNavThem"
+                android:icon="@drawable/ic_add"/>
+        </menu>
+    </item>
+
+    <item android:title="Tài khoản">
+        <menu>
+            <item android:title="Đăng nhập"
+                android:id="@+id/nNavDangNhap"
+                android:icon="@drawable/ic_register"/>
+
+            <item android:title="Đăng xuất"
+                android:id="@+id/nNavDangXuat"
+                android:icon="@drawable/ic_logout"/>
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509029694842",
+    "firebase_url": "https://sotaykiniem-default-rtdb.firebaseio.com",
+    "project_id": "sotaykiniem",
+    "storage_bucket": "sotaykiniem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509029694842:android:83b260d54a1380ab01eac3",
+        "android_client_info": {
+          "package_name": "com.example.sotaykiniem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509029694842-npa6pvvqlar99rtplmjsh7f7rebggcrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADgVrns5p5-padUz3fNVdFQMMamFBiiPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509029694842-npa6pvvqlar99rtplmjsh7f7rebggcrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
